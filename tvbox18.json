@@ -1,8 +1,8 @@
 {
   "wallpaper": "https://picsum.photos/1080/",
-  "spider": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xyq.jar",
-  "logo": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/美.gif",
-  "homeLogo": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/美.gif",
+  "spider": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xyq.jar",
+  "logo": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/美.gif",
+  "homeLogo": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/美.gif",
   "sites": [
     {
       "key": "csp_XYQHiker_stripchat直播",
@@ -2518,7 +2518,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/jdyyxxx.json"
     },
     {
@@ -2530,7 +2530,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/jdyy1xxx.json"
     },
     {
@@ -2542,7 +2542,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/tv/xpbq/色最色xbpq.json"
     },
     {
@@ -2610,7 +2610,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/yinghua.json"
     },
     {
@@ -2622,7 +2622,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/mdyhxxx.json"
     },
     {
@@ -2634,7 +2634,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/gaoaaxxx.json"
     },
     {
@@ -2645,7 +2645,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/yousxxx.json"
     },
     {
@@ -2657,7 +2657,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/cbssxxx.json"
     },
     {
@@ -2669,7 +2669,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/madou1.json"
     },
     {
@@ -2681,7 +2681,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/ttzh.json"
     },
     {
@@ -2693,7 +2693,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/bananxxx.json"
     },
     {
@@ -2704,7 +2704,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xbpq.jar",
       "ext": "https://cdn.jsdelivr.net/gh/ys1121/yinshiyuan@main/18/xiangj.json"
     },
     {
@@ -3056,7 +3056,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "type": 3,
-      "jar": "https://raw.kkgithub.com/ys1121/yinshiyuan/refs/heads/main/jar/xxx.jar"
+      "jar": "https://raw.githubusercontent.com/ys1121/yinshiyuan/refs/heads/main/jar/xxx.jar"
     },
     {
       "key": "*黄色资源🔞",
